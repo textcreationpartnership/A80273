@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To His Grace His Majesty's High Commissioner, and the Right Honourable the Estates of Parliament. The humble representation and petition of the Council-General of the Company of Scotland, trading to Africa and the Indies</title>
+            <author>Company of Scotland Trading to Africa and the Indies.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80273</idno>
+            <idno type="STC">Wing C5602</idno>
+            <idno type="STC">ESTC R171471</idno>
+            <idno type="EEBO-CITATION">99897951</idno>
+            <idno type="PROQUEST">99897951</idno>
+            <idno type="VID">171073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171073)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2553:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To His Grace His Majesty's High Commissioner, and the Right Honourable the Estates of Parliament. The humble representation and petition of the Council-General of the Company of Scotland, trading to Africa and the Indies</title>
+                  <author>Company of Scotland Trading to Africa and the Indies.</author>
+               </titleStmt>
+               <extent>2 sheets (4 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing reports that it is dated "16th day of May 1700."</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Company of Scotland Trading to Africa and the Indies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171073:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:171073:2" rendition="simple:additions"/>
+            <head>To His Grace His Majeſty's High Commiſſioner, and the Right Honourable the Eſtates of Parliament.</head>
+            <head type="sub">
+               <hi>The humble Repreſentation and Petition of the Council-General of the Company of</hi> Scotland, <hi>Trading to</hi> Africa <hi>and the</hi> Indies.</head>
+            <opener>
+               <salute>May it pleaſe your Grace, and Right Honourable Eſtates,</salute>
+            </opener>
+            <p>IT is evident by the whole Strain of Three ſeveral Acts of Parliament, together with His Majeſty's Let<g ref="char:EOLhyphen"/>ters Patent under the Great Seal of this Kngdom, in favours of the ſaid Company, That the Wiſdom of the King and Right Honourable Eſtates did intend, that all ſuch Advantages as might ariſe by the eſtabliſhing of ſuch a Company, ſhould be of as univerſally a National Concern as poſſible; And in or<g ref="char:EOLhyphen"/>der thereunto, were pleaſed to endow it with large Priviledges and Immunities, ſuteable to the Circum<g ref="char:EOLhyphen"/>ſtances of an Infant-Company, and the Greatneſs of its Deſigns: And leſt that it ſhould fail in the Exe<g ref="char:EOLhyphen"/>cution, for want of a ſufficient Stock to carry on ſuch an Undertaking, all imaginable Parliamentary Encou<g ref="char:EOLhyphen"/>ragement was given to Perſons of all Ranks, Ages and Sexes, both within and without the Kingdom, whe<g ref="char:EOLhyphen"/>ther Natives or Foreigners, to become Partners and Adventurers in the Joint-Stock of the ſaid Company, as is ſingularly manifeſt by the 42d. Act of the 5th Seſſion of this current Parliament, ſpecially calculated for that end only.</p>
+            <p>Upon the publick Faith of having due Protection in the enjoyment of theſe unqueſtionable Priviledges and Immunities, as having received their Sanction from His Majeſty, and the unanimous Suffrage of the Great Council of the Nation as aforeſaid, many Perſons of all Ranks and Degrees were thereby induced to become Adventurers in the Joint-Stock of our ſaid Company, in ſo much that in a very ſhort time, a much more conſiderable Stock was ſubſcrib'd for within this Kingdom, than was ever before ſo much as propos'd here upon any Project whatſoever, ſince we were a Nation.</p>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing thus entred into a Society, We and our Conſtituents have purſuant to the intentions of the Acts of Parliament and Letters Patent above-mention'd, with much care and trouble, and a great Expenſe of Treaſure, after having ſtruggled with many unexpected Obſtructions and Difficulties, ſetled a Plantation, by the Name of <hi>Caledonia,</hi> in one of the moſt Healthful, Fruitful, naturally impregnable, and every way valuable Places in all <hi>America,</hi> as is univerſally acknowledged by all Perſons of Experience in ſuch Matters, as well as by the General Conſent of ſuch as have been there: And, as a manifeſt proof thereof, tho' our ſaid Plantation be ſettled moſt ſtrictly in the terms of the Acts of Parliament and Letters patent above mentioned, yet it has raiſed the Jealouſy of ſome, and Envy of others, of the moſt knowing and conſiderable Trading Nations it <hi>Europe.</hi>
+            </p>
+            <p>But, to our and the Nations great Surpriſe, and ineſtimable Loſs, while we were uſing all ordinary means and big with the hopes of riveting that Settlement upon a laſting Foundation, ſuch was the further continu<g ref="char:EOLhyphen"/>ed Chain of unexpected Obſtructions and moſt unaccountable Mal-treatments that we met with, by Procla<g ref="char:EOLhyphen"/>mations of a very ſtrange Nature, and otherways, that the repeated Misfortunes following thereupon, pu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us under an indiſpenſible Neceſſity of humbly petitioning His Majeſty for allowing the Parliament to mee<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at the day appointed in <hi>November</hi> laſt; in full confidence and Expectation of having the moſt natural and cordial Aſſiſtance from thoſe who firſt eſtabliſhed our Company, and promiſed it Protection; eſpeciall ſince all our other Applications have hitherto proved ineffectual: But a meeting of the Eſtates in Parlia<g ref="char:EOLhyphen"/>ment at that time not quadrating (it would ſeem) with His Majeſty's other Affairs, a very conſiderable Bo<g ref="char:EOLhyphen"/>dy of the Nobility, Gentry, and Burgeſſes of this Kingdom, thought fit, in a moſt dutiful and humble ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ner, by their late Addreſs, to repreſent to His Majeſty, how deeply they were affected with the Nation concern in our Company's repeated Misfortunes, and therefore humbly Petitioned for the ſitting of th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parliament as ſoon as conveniently might be. And the King having been moſt graciouſly pleaſed to o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Meeting of the Right Honourable Eſtates now in Parliament, We think our ſelves in all duty bound <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> give His Grace His Majeſty's High Commiſſioner and the Right Honourable Eſtates, a ſhort a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>naked Narrative of the ſeveral Obſtructions, and Misfortunes that we have been all along forc'd to gra<g ref="char:EOLhyphen"/>ple with in the proſecution of our Company's Deſigns, to the end that the great Council of the Natio<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> having a perfect View and full Knowledge of theſe Difficulties which we now Labour under, may be t<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> better able to to judge how to apply a Remedy.</p>
+            <p>The firſt attempt for ſtrengthning our Company's Intereſt and Stock was at <hi>London,</hi> where a Subſcripti<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of 300000 <hi>sterl.</hi> was procured in Nine days time, without ſo much as a publick Advertiſement, and ma<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> knowing Merchants were ſo far convinc'd of the many Advantages that might probably ariſe from ſu<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a Conſtitution, that they ſignified their willingneſs to be concerned for Triple the Sum, if allowed: I not only did the Parliament of <hi>England</hi> by their Addreſs to His Majeſty of the 13th of <hi>December</hi> 1695. a otherways, render that Subſcription ineffectual, but the Houſe of Commons did alſo appoint a Committ <hi>to examine what Methods were taken for obtaining the Act of Parliament, by which our ſaid Company is eſtabliſh<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> who were the Promoters and Adviſers thereof;</hi> and did afterwards impeach the Nominees in the ſaid Act Parliament; notwithſtanding the abſolute Independency of this Kingdom:</p>
+            <p>Yet after all this Diſcouragement, we went on with our Subſcriptions at home, and made our <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Effort for ſtrengthning thereof beyond Sea, both in <hi>Holland</hi> and <hi>Hamburgh:</hi> In the firſt of which pla<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many eminent Merchants declared their poſitive inclinations to be very conſiderably intereſted with us, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gave ſome ſignal Proofs thereof, till they were made to underſtand by Threatnings and other Inſinuati<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that a Higher Power would make them at leaſt very uneaſy, if they perſiſted any further in their Reſoluti<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of being concerned with our Company.</p>
+            <pb n="2" facs="tcp:171073:3"/>
+            <p>And at <hi>Hamburgh,</hi> where we had the moſt promiſing Hopes of foreign Aſſiſtance, the <hi>Commercii</hi> or Mer<g ref="char:EOLhyphen"/>chant-Company, entred into Contract with our Company's Deputees, to joyn at leaſt 200000 <hi>
+                  <abbr>l.</abbr> Sterl:</hi> to our Company's Stock; but to our great Aſtoniſhment, His Majeſty of <hi>Great Britains</hi> Miniſters there, did, under pretence of ſpecial Warrant from the King, put a full ſtop thereto, by giving in <hi>A Memorial to the Burgo-Maſters and Gentlemen-Councellours of that City, wholly diſ-owning the Authority of the Acts of Parliament, and Letters Pa<g ref="char:EOLhyphen"/>tent above-mention'd, and intimating that His Majeſty would regard their entring into Treaties with our Company as an Affront to His Royal Authority, and that he would not fail to reſent it, as having neither Credential Letters, nor being any otherways Authoriz'd by His Majeſty.</hi>
+            </p>
+            <p>Upon notice whereof, we did in all humble Duty Addreſs His Majeſty in <hi>June</hi> 1697, for Redreſs of that open and bold Encroachment, upon not only our, but alſo the Nation's Rights, in its moſt fundamental Con<g ref="char:EOLhyphen"/>ſtitution, by endeavouring to ſubvert the Independency of its Parliamentary Laws, expreſly contrary to the Law of Nations: All which His Majeſty by His Royal Letter from <hi>Flanders</hi> in <hi>July</hi> 1697, <hi>Promiſed to take into Conſideration, as ſoon as he would return into</hi> England, <hi>and that in the mean time, His Majeſty would give Orders to His Mi<g ref="char:EOLhyphen"/>niſters at</hi> Hamburgh, <hi>not to obſtruct our Company in the proſecution of its Trade with the Inhabitants of that City.</hi>
+            </p>
+            <p>In the full Confidence of His Majeſty's Royal Promiſe, we thought our ſelves ſecure, and took our Mea<g ref="char:EOLhyphen"/>ſures accordingly, till to our further ſurprize, we found by ſeveral Inſtances, that His Majeſty's ſaid Miniſters were as wickedly bent againſt us as ever, and ſtill denying that they had got any ſuch Orders from His Maje<g ref="char:EOLhyphen"/>ſty: whereupon the Directors of our Company, did, by their Letter of the 28 of <hi>September</hi> 1697, expoſtulate in the firſt place, with both the then Secretaries of State, about that further Diſ-appointment, but having ſtill no Redreſs therein, we did in moſt humble and dutiful Manner, by our ſecond Addreſs of the 22d. day of <hi>December</hi> 1697. lay the whole Matter again before His Majeſty; And did likewiſe, at the ſame time, not only humbly Repreſent the Premiſſes to His Majeſty's moſt honourable Privy-Council, together with the train of ill Conſequences that muſt neceſſarly attend ſuch Treatment, if not prevented by an early Redreſs; but wrote alſo ſeparatly to both the Secretaries of State, and ſuch other Noble Perſons of the Government, as happen'd to be then at <hi>London,</hi> To uſe their Joint-Intereſt, for procuring Juſtice, in a Matter of ſuch Uni<g ref="char:EOLhyphen"/>verſal Concern to the Honour, Intereſt, and Independency of the whole Kingdom.</p>
+            <p>All the Anſwer we obtain'd, was by a Letter of the 17th of <hi>January.</hi> 1698, from both the Secretaries of State: <hi>That the King ſaid, He had already given Orders to His Reſident at</hi> Hamburgh <hi>in that Matter, conform to His Royal Letter from</hi> Flanders, <hi>in</hi> July 1697, <hi>which was then communicated to the Company.</hi>
+            </p>
+            <p>By which Anſwer, together with what repeated Advices we had at the ſame time from <hi>Hamburgh,</hi> that the <hi>Engliſh</hi> Miniſters there, had ſtill poſitively diſowned their having got any ſuch Orders, we were put out of all Hopes of having any Redreſs, until we ſhould have an Opportunity of laying the whole Matter before a Meeting of the Eſtates of Parliament.</p>
+            <p>But in the mean time we proceeded, with all the Strength we had (tho' extremely weakned by the Treat<g ref="char:EOLhyphen"/>nent above-narrated) to make the beſt Preparations we could (conſidering the Scarcity of theſe Years) for <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tting out an Equipage of Ships, Men, Proviſions, and other Neceſſaries, for ſettling a Plantation in <hi>Ame<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ica,</hi> in the Terms of the Acts of Parliament, and Letters Patent above-mention'd: And its evident by the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery Conſtitutions of the Colony, that they were calculated more for the general Advantage of the Nation <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Poſterity, than for the particular and immediat Benefit of the Adventurers.</p>
+            <p>And the Parliament happening to meet the very next Day after our Ships had ſail'd, we did, by our Hum<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le Petition of the 22d. of <hi>July</hi> 1698, Repreſent to his Grace, His Majeſties then High Commiſſioner, and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Right Honourable Eſtates then aſſembled in Parliament, the Treatment which our Company met with <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <hi>London</hi> and <hi>Hamburgh</hi> as aforeſaid, the great Prejudices which we had ſuſtain'd thereby, and the many <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rther Inconveniencies and evil Conſequences that muſt neceſſarly have followed thereupon, if, upon any <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccount whatſoever, the Parliament ſhould happen to neglect the taking immediat Cognizance of ſuch <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſage.</p>
+            <p>And the Parliament having thereupon, by their Unanimous Addreſs of the 5th. of <hi>Auguſt</hi> 1698, to His Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſty, thought fit to manifeſt <hi>their own, and the whole Nations Concern in that Matter, earneſtly entreating, and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ost aſſuredly expecting, That His Majeſty would, in His Royal Wiſdom, take ſuch Meaſures, as might effectually vin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cat the Undoubted Rights and Priviledges of the ſaid Company, and ſupport the Credit and Intereſt thereof;</hi> And the Par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ament likewiſe, by the ſame Addreſs, <hi>recommending the Concerns of the ſaid Company to ſome ſpecial Marks of His Majeſties Royal Favour, as that Branch of the Trade of this Kingdom, in which they, and the Nation they repreſented, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d a more peculiar Intereſt;</hi> The Court of Directors of our Company were thereby encourag'd to renew <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir Application to His Majeſty, with relation to the Memorial given in by His Miniſters to the Senate of <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amburgh,</hi> (the ſame being ſpecially mention'd in the Parliaments Addreſs:) And in Conſideration of the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ammages ſuſtain'd by the Company, through Means of that Memorial, the Directors humbly Petition'd, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at His Majeſty would be pleaſed, for their Encouragement at that time, as a Gracious Mark of His Roy<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Favour, to beſtow upon them the two ſmalleſt of the Frigots, then (and to this Hour) lying uſeleſs in <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>untiſland</hi> Harbour.</p>
+            <p>But our Company having no manner of Anſwer to either of theſe, and being aſſured by ſeveral Letters <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m <hi>Hamburgh,</hi> That both the <hi>Engliſh</hi> Miniſters there, had poſitively denyed their having received any ſuch <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ders, as were long before promiſed, and declared to have been given, with relation to that Memorial, the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urt of Directors of our Company did, by their Letter of the 29th. of <hi>November</hi> 1698, tranſmit Copies of <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid Letters to the Viſcount of <hi>Seafield,</hi> then ſole Secretary of State, and entreated his Lordſhip, to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cure ſome ſpeedy and effectual Anſwer from His Majeſty to the Contents of both that Letter, and their <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mer Petition.</p>
+            <p>The Secretary, by his Letter of the 13th. of <hi>December</hi> 1698, returned for Anſwer, <hi>That he would take the firſt <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enient Opportunity he could have, to repreſent that Matter to the King, but that he could not expect to have it for <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> time, becauſe His Majeſty was then very much imployed in the Affairs of His</hi> Engliſh <hi>Parliament.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e thereupon waited a full Month, in expectation of ſome further Anſwer, but getting none, our Court of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ectors did, by a Letter of the 13th. of <hi>January</hi> 1699, put the Secretary again in mind of our ſaid Petition of preceeding <hi>Auguſt,</hi> and Letter of the 29th. of <hi>November.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Secretary, by his Letter of the 7th. of <hi>February</hi> 1699, ſignified, <hi>That he had preſented our Company's Peti<g ref="char:EOLhyphen"/>to His Majeſty, and was commanded to let us know, that there being Accounts, that the Ships belonging to the Com<g ref="char:EOLhyphen"/>pany,
+<pb n="3" facs="tcp:171073:3"/>were arriv'd upon the Coaſt of</hi> America, <hi>and the particular Deſign not being communicated to His Majeſty, He there<g ref="char:EOLhyphen"/>fore delayed to give any Anſwer, until he ſhould receive certain Information of their Settlement.</hi>
+            </p>
+            <p>Tho' we could not but be ſurpriz'd, to find all our former Addreſſes and Petitions, about Matters of ſuch weighty Concern, as are above narrated, Anſwered, after ſo long Delays, only with a ſeeming Charge, for not having communicated to His Majeſty a thing that was never in the leaſt demanded of us, by either the King, Parliament, Privy Council, or Miniſters of State, we being limited to ſettle in the Terms of the Acts of Parlia<g ref="char:EOLhyphen"/>ment, as we ſhould be Anſwerable: Yet upon the very firſt Advice we had of our Colony's Settlement in <hi>Caledonia,</hi> we, by our Letters of the 31ſt. of <hi>March,</hi> and 1ſt. of <hi>April</hi> 1699, gave a very full and dutiful Account thereof to His Majeſty, and to both the Secretaries of State, together with an Account of the <hi>French</hi> Deſigns thereabouts, and of what Import our ſaid Settlement (if duly protected) might prove to the Intereſt and Security of all His Majeſties Dominions, and referred the ſame, together with the Contents of our for<g ref="char:EOLhyphen"/>mer Petitions, to His Majeſties Royal Conſideration.</p>
+            <p>About this time it was, That His Majeſty was pleaſed to call the Preſident of the Seſſion, and the Ad<g ref="char:EOLhyphen"/>vocat to Court, to the end (as we underſtood) that they, jointly with both the Secretaries of State, might, in a Conference with ſeveral of the <hi>Engliſh</hi> Miniſters, ſatisfy His Majeſty, as to the Legality of our Com<g ref="char:EOLhyphen"/>pany's Settlement: Which (by all that ever we could learn) was then (and otherways ſince that time) made clear beyond all manner of Diſpute.</p>
+            <p>But while, in the mean time, we were pawning even our own particular Credits, for ſending the needful Supplies of Ships, Men, Proviſions, Arms, Ammunition, and other Neceſſaries, for ſecuring ſo valuable a Settlement to this Nation, we were aſtoniſhed to have Advice, That, by Orders from <hi>England,</hi> in <hi>January</hi> 1699, Proclamations had been emitted, in the Months of <hi>April</hi> and <hi>May,</hi> over all His Majeſties Planta<g ref="char:EOLhyphen"/>tions and Territories in <hi>America,</hi> ſtrictly Intercommuning our Colony, under very ſevere Penalties to be inflicted on the Contraveeners of theſe Proclamations, <hi>in regard that His Majeſty</hi> (as theſe Proclamations narrate) <hi>was unacquainted with the Intentions and Deſigns of the</hi> Scots <hi>ſettling at</hi> Darien.</p>
+            <p>As we humbly conſidered theſe Proclamations to be ſuch, as were never before publiſhed in thoſe parts, againſt any other People upon Earth, and of ſo Barbarous a Nature, as we thought, no Good Chriſtians would put in Execution even againſt Infidels; So finding our ſelves unqueſtionably warranted by all Laws Humane and Divine, we perſiſted in our Endeavours for maintaining that Settlement, as hoping, that, through means thereof, this Nation might, in time, have an Opportunity of raiſing it ſelf above the open Con<g ref="char:EOLhyphen"/>tempt, Reproach and Inſults of its unkind Neighbours, and of propagating the Goſpel amongſt the Igno<g ref="char:EOLhyphen"/>rant good Natur'd <hi>Indians</hi> of thoſe parts.</p>
+            <p>But before our Recruits could poſſibly arrive at <hi>Caledonia,</hi> our Colony got certain Accounts of theſe Pro<g ref="char:EOLhyphen"/>clamations; and finding at the ſame time, the ſad Effects thereof, by being denied any the leaſt Help, ei<g ref="char:EOLhyphen"/>ther for Goods or Money, at <hi>Jamaica,</hi> from whence they had formerly Supplies; And that in the Pro<g ref="char:EOLhyphen"/>clamation iſſued by Sir <hi>William Beeſton,</hi> Governour of that Iſland, he had poſitively declared, <hi>That by their Settlement in</hi> Darien, <hi>they had actually broken the Peace entred into with His Majesties Allyes</hi> (which they believed he durſt not venture to have done without a ſufficient Warrant) And finding themſelves thereby to be of conſe<g ref="char:EOLhyphen"/>quence declared Pirates, without any previous Summons or Hearing, contrary to the Cuſtoms and com<g ref="char:EOLhyphen"/>mon Uſage of all Nations, even in the caſe of real Piracy; and founding a Belief, at the ſame time, on the Treatment which they knew our Company had formerly met with in <hi>Europe,</hi> without being Redreſs'd therein, that we were not in a Condition either to ſupply or protect them, they unhappily took the Alarm, under ſuch a General Conſternation, as deveſted them not only of all manner of patience to ſtruggle with any Inconveniencies they lay under at the time, but alſo of all manner of prudence, in taking any reaſon<g ref="char:EOLhyphen"/>able Meaſures either for their own Security, or for our Company's intereſt. In the midſt of which Con<g ref="char:EOLhyphen"/>fuſion thoſe of them who had any bad Deſigns (as we could not well ſuppoſe ſuch a Number to be free of ſome) made uſe of theſe Proclamations as handles, by which to perpetrate their own ſeveral ends, and eaſily perſwaded all the reſt to leave the Settlement: Which they unadviſedly did the 20th of <hi>June</hi> laſt. And by that means not only have the Ships, Men &amp; Goods, which were there at that time, been expoſed to the Ar<g ref="char:EOLhyphen"/>bitrary will of thoſe to whom the Execution of thoſe Proclamations was given in Charge, but even all our ſubſequent Meaſures brought into inevitable diſorder.</p>
+            <p>Upon Information of all which, we did, by our humble Petition to His Majeſty of the 19th of <hi>October</hi> 1699, in all humility and earneſtneſs, beg, <hi>That His Majeſty would in His Fatherly care for the good of our Com<g ref="char:EOLhyphen"/>pany in particular, and of the Nation in General, be graciouſly pleaſed to give ſome ſpecial Teſtimonies of his Majestys Royal Protection to our Company at that Juncture, and particularly to take off the Force and effect of thoſe Proclamations which have been ſo prejudicial to us, and to ſignify his Royal pleaſure to the Governours of hit Plantations in</hi> America, <hi>that our Colony might be ſupplied in the common and ordinary way of Commerce as thoſe of other Nations are; And that in the mean time His Majeſty would be graciouſly pleaſed to allow the Eſtates of Parliament to meet at the day appointed in</hi> November <hi>laſt, or as ſoon as conveniently could be, to the end that their Advice and Aſſiſtance might he had in ſuch a weighty and General Concern.</hi>
+            </p>
+            <p>We likewiſe, by our humble Addreſs to His Majeſty's moſt Honourable Privy Council of the 20th of <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> 1699, Repreſented what we thought in duty and prudence neceſſary, with relation to the Contents of our ſaid Petition to his Majeſty, <hi>Humbly referring the whole to their Lordſhips moſt ſerious conſideration, and praying that they would be pleaſed to do us all the good Offices with His Majeſty that they'd think moſt expedient for ſupporting our Company and Colonys Interest; and to give him an account of our Company's hard Circumstances, and how much the Ho<g ref="char:EOLhyphen"/>nour and Intereſt of the Nation ſtood concern'd therein.</hi>
+            </p>
+            <p>His Majeſty was graciouſly pleaſed, by His Royal Letter to us of the 2d. of <hi>November</hi> 1699, to declare that, <hi>He did very much regret the Loſs which the Kingdom &amp; the Company had lately ſuſtain'd, That he would upon all occaſions protect and encourage the Trade of the Nation, That he would take care that His Subjects of this Kingdom ſhould have the ſame freedom of Trade and Commerce with his</hi> Engliſh <hi>Plantations that ever they had formerly, and that he would order the Parliament to meet, when he'd judge that the Good of the Nation would require it.</hi>
+            </p>
+            <p>But, in ſome ſhort time thereafter, while we were ſolacing our ſelves with the Hopes of having His Majeſty's protection, not only as a Company eſtabliſhed by His Royal Authority, with the Advice and Conſent of Par<g ref="char:EOLhyphen"/>liament, but alſo as Subjects, and making all the Preparations we could, to ſend the needful Supplies and Advices to thoſe who were laſt ſent for Repoſſeſſing the ſame Settlement: We were further aſtoniſhed to have Ad<g ref="char:EOLhyphen"/>vices
+<pb n="4" facs="tcp:171073:4" rendition="simple:additions"/>that, by ſecond Orders from <hi>England,</hi> another Fleece of Proclamations had been emitted over an the <hi>Engliſh</hi> Plantations in <hi>America,</hi> particularly on the 5th. of <hi>September</hi> laſt in <hi>Barbados,</hi> &amp;c. And that in com<g ref="char:EOLhyphen"/>plyance with the intent of theſe Proclamations, Our People that went along with the <hi>Riſing-Sun,</hi> were in <hi>November</hi> laſt, poſitively denyed Wood and Water at <hi>Monſerat,</hi> a Priviledge never before denyed to any o<g ref="char:EOLhyphen"/>ther Nation: And by a Letter of the 29th. of <hi>January</hi> laſt from the Commander of another of our Compa<g ref="char:EOLhyphen"/>ny's Ships, we are aſſured that they were poſitively denyed Anchoring at St. <hi>Christophers</hi> by the Governour Colonel <hi>Norton,</hi> who out of his own Mouth declared to the Commander of our ſaid Ship, That he did it by new Orders which he had received about a Month before; altho at the ſame time two <hi>Dutch</hi> Ships were then Watering there; which we have ſince confirmed to us by Letters from Mr. <hi>Daniel Mackay,</hi> one of the Councellours of our Colony, dated at <hi>Port-Royal</hi> in <hi>Jamaica</hi> the 13th. <hi>February</hi> laſt: By which Letters, he informs us likewiſe, That when he waited upon the Governour of that Iſland, concerning our Company's Ship the St. <hi>Andrew</hi> lying in that Harbour, The Governour declared to him, That tho' the ſaid Ship were fitted for going to Sea, he would not ſuffer her to go, without a ſpecial Order from <hi>England</hi> for that Effect.</p>
+            <p>We likewiſe humbly beg leave to inform Your Grace, and Right Honourable Eſtates, That amongſt our Company's many other Loſſes and Miſ-fortunes, a Ship called the <hi>Dolphin,</hi> ladned with a valuable Cargo, belonging to our Company, ſtruck Unfortunatly on a Rock, by which ſhe ſprung a Leake, and being forc'd to run aſhoar under the Walls of <hi>Carthagena,</hi> to eſcape Ship-wrack, the ſaid Ship and Goods were by the <hi>Spaniards</hi> (His Majeſty's Allies) violently ſeized and diſpoſed of as Prize, and the Men alſo to the Num<g ref="char:EOLhyphen"/>ber of 30 and a Boy, detain'd and made cloſe Priſoners, not only contrary to the Law of Nations, (we being then in profound Peace with them) but alſo contrary to the expreſs Terms of the 10. and 11. Ar<g ref="char:EOLhyphen"/>ticles of the Treaty concluded at <hi>Madrid</hi> the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>/1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Day of <hi>July</hi> 1670, between the Crowns of <hi>Great Brittain</hi> and <hi>Spain.</hi>
+            </p>
+            <p>By our dutiful Addreſs of the 4th. of <hi>December</hi> 1699, we humbly Petition'd His Majeſty, <hi>That He would be graciouſly pleaſed to take theſe Proceedings of the</hi> Spaniards <hi>into His Royal Conſideration, ſo as that ſpeedy and effectua<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Meaſures might be taken for the Redreſs of theſe Dammages, and the freedom of theſe diſtreſſed Priſoners.</hi>
+            </p>
+            <p>In Anſwer to which, His Majeſty was graciouſly pleaſed, by His Royal Letter of the 10th. of <hi>January</hi> laſt to ſignify, <hi>That He was reſolved in the Terms of the Treaties to demand from the King of</hi> Spain, <hi>that theſe Priſoner<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhould be ſet at Liberty.</hi>
+            </p>
+            <p>Yet ſome of the moſt conſiderable of theſe Priſoners being tranſported above half a Year ago to O<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Spain;</hi> We have frequent Advices from them by Letters, dated in <hi>Cadiz</hi>-Priſon, That they and all the Cre<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have been moſt Barbarouſly uſed, and that they themſelves are ſtill kept cloſe Priſoners, under very ſeve<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Treatment, Copies of which Letters we have ſome Months ago tranſmitted to the Secretaries of State.</p>
+            <p>By all which, it cannot but evidently appear to Your Grace and Right Honourable Eſtates, that tho we have all along us'd our beſt Endeavours to wreſtle through theſe almoſt unſurmountable Difficulties, an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> exerted even our utmoſt efforts for retrieving our Loſſes, as much as poſſible, by endeavouring to repoſſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and mantain ſo valuable a Settlement; And tho' we have certain Advice of its being Repoſſeſs'd b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our People, and that we have taken all imaginable Meaſures for their preſent Supply: Yet we have to<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> juſt ground to be fully perſwaded, That unleſs the King and High Court of Parliament, do ſpeedily Sup<g ref="char:EOLhyphen"/>port, Protect, and Aſſiſt us, in the Proſecution of our Company's lawful Deſigns, that all our Paſt, Preſent and Future Endeavours muſt, to the Nations indelible Reproach and Diſhonour; as well as to its and the Company's unſpeakable and irreparable Loſs, prove unavoidably abortive.</p>
+            <p>
+               <hi>May it therefore pleaſe Your Grace and Right Honourable Eſtates, to take the ſeveral Matters <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Fact above-mentioned, into your moſt ſerious Conſideration; To Vindicat, Support, and Protect in the Enjoyment of our lawful Priviledges, both as a Company, and as Subjects of this free as independent Kingdom, to take ſuch Meaſures, as You (in Your profound Wiſdom) may judge m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Effectual, for repairing the many Dammages we have already ſuſtain'd, and for aſſiſting us in the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ther Proſecution of our Company's lawful Deſigns; but more eſpecially, for the mantainance of o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> juſt Right and Title to the Settlement of</hi> CALEDONIA, <hi>and the Enjoyment of ſuch Advantages (if duly Protected) may probably ariſe thereby.</hi>
+            </p>
+            <closer>
+               <dateline>Sign'd at <hi>Edinburgh</hi> 
+                  <date>the 16th. Day of <hi>May,</hi> 1700.</date> In Name, Preſence and by Warrant the ſaid <hi>Council-General</hi> by.</dateline>
+               <signed>MARISCHALL <hi>I.P.G.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
